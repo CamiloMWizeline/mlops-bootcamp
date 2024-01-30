@@ -7,9 +7,9 @@ Create poetry environment
 To activate poetry environment successfully follow the next step by step:
 
 
-- Install python version 3.10.12
+- Install python version 3.10
     ```
-        pyenv install 3.10.12
+        pyenv install 3.10
     ```
 - Install poetry
     ```
@@ -17,7 +17,7 @@ To activate poetry environment successfully follow the next step by step:
     ```
 - Create virtual poetry env
     ```
-        poetry env use 3.10.12
+        poetry env use 3.10
     ```
     or
     ```
@@ -43,9 +43,9 @@ To activate poetry environment successfully follow the next step by step:
 Now you're ready to go!
 
 Alternative with virtualenv
-- Install python version 3.10.12
+- Install python version 3.10
     ```
-        pyenv install 3.10.12
+        pyenv install 3.10
     ```
 
 - Install virtual env
